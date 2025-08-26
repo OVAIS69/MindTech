@@ -3,7 +3,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/OVAIS69/MindTech?color=blue)  
 ![GitHub last commit](https://img.shields.io/github/last-commit/OVAIS69/MindTech?color=brightgreen)  
 ![GitHub stars](https://img.shields.io/github/stars/OVAIS69/MindTech?style=social)  
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-orange?style=for-the-badge)](https://ovais69.github.io/MindTech/)  
+[![Live Demo For Desktop Only](https://img.shields.io/badge/Live%20Demo-Click%20Here-orange?style=for-the-badge)](https://ovais69.github.io/MindTech/)  
 
 A **sleek, modern, and responsive IT & tech services website** built with **HTML, CSS, and JavaScript**.  
 Perfect for showcasing IT management, cybersecurity, software development, and cloud solutions.  
